@@ -1,1 +1,1 @@
-# Java-mufaso
+Dummy template
